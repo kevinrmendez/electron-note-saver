@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node tests/test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.7"
+  },
+  "dependencies": {
+    "electron-packager": "^13.1.1",
+    "spectron": "^5.0.0"
+  }
+}
